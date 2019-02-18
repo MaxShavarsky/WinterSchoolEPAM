@@ -1,2 +1,2 @@
-Hello, Max! :)
+Hello, Max! 
 
